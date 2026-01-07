@@ -12,4 +12,5 @@ und contribute sind immer herzisch Wilkommen! :D
  <br>
  <br> youtube kanal!
  <br>https://www.youtube.com/@untitledskin.osudroid
- <p><br>Erstellt von mayi.-oi [2024-2026]</p>
+ <p><br>Erstellt von mayi.-oi [2024-2026]
+ <br>(man ich bin sehr gerusted HTML code sehr lange seit lol)</p>
