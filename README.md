@@ -1,4 +1,4 @@
-<!-- commit von mayi-oi -->
+<!-- commit von mayi-oi 2024-2026 -->
 # untitled.skin (Bleached)
 ![GitHub-Banner](https://github.com/user-attachments/assets/c40d038b-2cca-42b3-817b-093f147140aa)
 
@@ -6,6 +6,7 @@ untitled skin ist eine solo projekt, "custom skin" und open view für osu!droid,
 <br>Du kannst schauen jeder files untitled skin hat und zufalls hast du eine idee oder ein Problem? du kannst jeden Zeit pull requests oder issues!
 und contribute sind immer herzisch Wilkommen! :D 
 
+<!-- HTML Program lol -->
 <h2>website und youtube kanal link!:</h2>
  <br> website!
  <br>https://sites.google.com/view/untitled-skins/
@@ -14,3 +15,4 @@ und contribute sind immer herzisch Wilkommen! :D
  <br>https://www.youtube.com/@untitledskin.osudroid
  <p><br>Erstellt von mayi.-oi [2024-2026]
  <br>(man ich bin sehr gerusted HTML code sehr lange seit lol)</p>
+<!-- Ende -->
