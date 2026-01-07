@@ -1,6 +1,7 @@
 <!-- Commit von mary-oi 2024-2026 -->
 # Für sehr coole Contributer (ദ്ദി˙ᗜ˙)
-Hallo! und danke für deine Interesse von untitled.skin Bleached!
+>[!NOTE]
+>Hallo! und danke für deine Interesse von untitled.skin Bleached!
 <br>Zur erst bitte lese paar kurze Regeln!
 
 <h3> 1. Type mit deine Sprache! (b.z Englisch, Chinesische oder Deutsch)</h3>
