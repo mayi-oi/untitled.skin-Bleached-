@@ -1,5 +1,5 @@
 <!-- commit von mayi-oi -->
-<h1>untitled.skin (Bleached)</h1>
+# untitled.skin (Bleached)
 ![GitHub-Banner](https://github.com/user-attachments/assets/c40d038b-2cca-42b3-817b-093f147140aa)
 
 untitled skin ist eine solo projekt, "custom skin" und open view für osu!droid, osu! und osu!lazer.
