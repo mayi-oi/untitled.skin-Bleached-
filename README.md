@@ -9,7 +9,7 @@
 <br>Du kannst schauen jeder files untitled skin hat und falls du hast eine idee oder ein Problem? du kannst jeden Zeit pull requests oder issues!
 und contribute sind immer herzisch Wilkommen! :D
 <br> Falls du möchte gern Contributer und keine Ahnung wie Anfang?
-<br> Lese [hier!](docs/contributing.md).
+<br> Lese [hier!](contributing.md).
 
 <!-- HTML Program lol -->
 <h2>website und youtube kanal link!:</h2>
