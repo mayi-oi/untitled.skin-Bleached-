@@ -13,9 +13,6 @@ und contribute sind immer herzisch Wilkommen! :D
 <br> Lese [hier!](Contributing.md)
 
 <!-- HTML Program lol -->
- <h2>Faq (Frequently Asked Questions)</h2>
- <h3>jo mama</h3>
-
 <h2>website und youtube kanal link!:</h2>
  <br> website!
  <br>https://sites.google.com/view/untitled-skins/
