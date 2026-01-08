@@ -1,4 +1,4 @@
-<!-- commit von mayi-oi 2024-2026 -->
+<!-- commit von mayi-oi Jan.7.2026 -->
 # untitled.skin (Bleached)
 ![GitHub-Banner](https://github.com/user-attachments/assets/c40d038b-2cca-42b3-817b-093f147140aa)
 
@@ -9,11 +9,13 @@
 <br>untitled skin ist eine solo projekt, "custom skin" und open view für osu!droid, osu! und osu!lazer.
 <br>Du kannst schauen jeder files untitled skin hat und falls du hast eine idee oder ein Problem? du kannst jeden Zeit pull requests oder issues!
 und contribute sind immer herzisch Wilkommen! :D
-
 <br> Falls du möchte gern Contributer und keine Ahnung wie Anfang?
 <br> Lese [hier!](Contributing.md)
 
 <!-- HTML Program lol -->
+ <h2>Faq (Frequently Asked Questions)</h2>
+ <h3>jo mama</h3>
+
 <h2>website und youtube kanal link!:</h2>
  <br> website!
  <br>https://sites.google.com/view/untitled-skins/
