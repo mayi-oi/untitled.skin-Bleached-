@@ -11,7 +11,7 @@
 und contribute sind immer herzisch Wilkommen! :D
 
 <br> Falls du möchte gern Contributer und keine Ahnung wie Anfang?
-<br> Lese [hier!](Contributing.md).
+<br> Lese [hier!](Contributing.md)
 
 <!-- HTML Program lol -->
 <h2>website und youtube kanal link!:</h2>
