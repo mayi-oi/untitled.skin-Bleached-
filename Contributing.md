@@ -8,7 +8,7 @@
 Du kannst typen deine Sprache zu versenden ein pull request oder issue.
 <br> und Ich würde übersetze Lesen, übersetzen meine Sprache und Antwort dir mit deine Sprache! :)
 
-<h3> 2. Erklärt ganze Details wie möglich kann!</h3>
+<h3> 2. Erklärt ganze Details du möglich kann!</h3>
 Wann hast du ein sehr coole Idee für Element.
 <br> bitte erklären sie wie möglich kann
 mit ein Konzept Bild wie wirklich aussieht und nimmt deine Zeit!.
