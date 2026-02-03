@@ -1,0 +1,101 @@
+{
+        "Slider" : {
+            "sliderBorderWidth": 9.2,
+            "silderBodyBaseAlpha": 0.72,
+            "silderFollowComboColor": true,
+            "sliderHintEneable": true,
+            "sliderHintAlpha": 0.85,
+            "sliderHintcolor": "#FFFFFF,"
+        },
+        "Cursor" : {
+            "rotateCursor": false,
+            "rotateCursorTrail": false
+        },
+        "Utils" : {
+            "limtComboTextLengh": true
+        },
+        "Color" : {
+            "MenuItemDefaultColor": "#828282",
+            "MenuItemOnColor": "#D3D3D3",
+            "MenuItemVersionsDefaultColor": "#C17E9A",
+            "MenuItemVersionsSelectColor": "#F59DC1",
+            "MenuItemDefaultTextColor": "#E8E8E8",
+            "MenuItemSelectdTextColor": "#FFFFFF"
+        },
+        "Theme" : {
+            "accentColor": "#A3CBFF"
+        },
+        "HUD" : [ 
+            {
+                "type": "health_bar",
+                "x": 46.249878,
+                "y": 33.61557,
+                "anchor": "TopLeft",
+                "scale": 0.62642704
+            },
+            {
+                "type": "combo_number",
+                "x": -62.670334,
+                "y": -35.15338,
+                "anchor": "TopLeft",
+                "orgin": "TopLeft",
+                "scale": 0.63642704
+            },
+            {
+                "type": "accuracy_Counter",
+                "x": 58.76175,
+                "y": 90.80786,
+                "anchor": "TopLeft",
+                "orgin": "TopLeft",
+                "scale": 0.5
+            },
+            {
+                "type": "hit_error_meter",
+                "x": -0.93725586,
+                "y": 17.078863,
+                "anchor": "TopCenter",
+                "orgin": "TopCenter",
+                "scale": 0.57892716
+            },
+            {
+                "type": "pp_counter",
+                "x": -63.312195,
+                "y": -64.54733,
+                "anchor": "BottomRight",
+                "orgin": "BottomRight",
+                "scale": 0.5
+            },
+            {
+                "type": "score_counter",
+                "x": 59.26889,
+                "y": 65.81442,
+                "anchor": "TopLeft",
+                "orgin": "TopLeft",
+                "scale": 0.825563
+            },
+            {
+                "type": "back_button",
+                "x": -62.779663,
+                "y": -112.606026,
+                "anchor": "BottomRight",
+                "orgin": "BottomRight",
+                "scale": 0.825563
+            },
+            {
+                "type": "leaderborad",
+                "x": 3.0512085,
+                "y": 34.53882,
+                "anchor": "TopRight",
+                "orgin": "TopRight",
+                "scale": 0.5
+            },
+            {
+                "type": "linar_song_progress",
+                "x": -0.0011749268,
+                "y": -6.8943787,
+                "anchor": "BottomLeft",
+                "orgin": "BottomLeft",
+                "scale": 1
+            }
+        ]
+}
